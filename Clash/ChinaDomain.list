@@ -410,7 +410,7 @@ DOMAIN-SUFFIX,zmzfile.com
 
 # Private Tracker
 DOMAIN-KEYWORD,announce
-# DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,animetorrents.me
